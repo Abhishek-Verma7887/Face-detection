@@ -1,2 +1,5 @@
 # Face-detection
-This helps us in detecting our face with the help of ML.
+This contains some basics in python and numpy library.
+It also has a face detection and recognition code using KNN.
+A pokemon detection code is also present.
+
